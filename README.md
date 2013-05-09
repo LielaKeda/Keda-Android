@@ -1,8 +1,11 @@
 Keda-Android
 ============
 
-Keda for Android
-\n
+Keda for Android.
+
+
 Lietotne paredzçta çrtâkai darbîbai ar Kedas cîòu 
 (http://lielakeda.lv/battle/) mobilajâs ierîcçs. 
-\nVairâk par lietotni - http://lielakeda.lv/battle/app
+
+
+Vairâk par lietotni - http://lielakeda.lv/battle/app
