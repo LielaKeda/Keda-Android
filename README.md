@@ -4,8 +4,8 @@ Keda-Android
 Keda for Android.
 
 
-Lietotne paredzçta çrtâkai darbîbai ar Kedas cîòu 
-(http://lielakeda.lv/battle/) mobilajâs ierîcçs. 
+Lietotne paredzÄ“ta Ä“rtÄkai darbÄ«bai ar Kedas cÄ«Å†u 
+(http://lielakeda.lv/battle/) mobilajÄs ierÄ«cÄ“s. 
 
 
-Vairâk par lietotni - http://lielakeda.lv/battle/app
+VairÄk par lietotni - http://lielakeda.lv/battle/app
