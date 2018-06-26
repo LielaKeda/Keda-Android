@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\menu_statistika.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\menu\\statistika.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_image_bg.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\image_bg.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_rihanna.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\rihanna.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_gradient_bg.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_list_selector.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_top_albums.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\activity_top_albums.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_top_pics.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\activity_top_pics.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\menu_top_albums.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\menu\\top_albums.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_par_lietotni.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\activity_par_lietotni.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\menu_top_pics.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\menu\\top_pics.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_no_image.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\no_image.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\menu_par_lietotni.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\menu\\par_lietotni.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_gradient_bg_hover.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_statistika.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\activity_statistika.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_list_row.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\menu_single_pic.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\menu\\single_pic.xml"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_single_pic.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\activity_single_pic.xml"
+    }
+]

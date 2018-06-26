@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "9,4,3,10,7,6,8,14,15,13,12,11,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "333,96,56,386,245,195,280,629,697,564,500,439,143",
+                        "endColumns": "52,46,39,52,34,49,52,67,63,64,63,60,51",
+                        "endOffsets": "381,138,91,434,275,240,328,692,756,624,559,495,190"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,269,309,362,389,439,492,560,624,689,753,814",
+                        "endColumns": "52,46,39,52,26,49,52,67,63,64,63,60,51",
+                        "endOffsets": "217,264,304,357,384,434,487,555,619,684,748,809,861"
+                    }
+                }
+            ]
+        }
+    ]
+}
