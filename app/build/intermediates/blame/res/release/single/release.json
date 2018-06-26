@@ -16,10 +16,6 @@
         "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\image_bg.xml"
     },
     {
-        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_rihanna.png.flat",
-        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-hdpi\\rihanna.png"
-    },
-    {
         "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
         "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\menu\\main.xml"
     },
@@ -56,12 +52,12 @@
         "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\menu\\top_albums.xml"
     },
     {
-        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_par_lietotni.xml.flat",
-        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\activity_par_lietotni.xml"
-    },
-    {
         "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_icon.png.flat",
         "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_par_lietotni.xml.flat",
+        "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\layout\\activity_par_lietotni.xml"
     },
     {
         "merged": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\res\\merged\\release\\menu_top_pics.xml.flat",

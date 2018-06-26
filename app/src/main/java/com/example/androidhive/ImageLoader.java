@@ -58,24 +58,27 @@ public class ImageLoader {
         File f=fileCache.getFile(url);
         
         //from SD cache
-        Bitmap b = decodeFile(f);
-        if(b!=null)
-            return b;
+//        Bitmap b = decodeFile(f);
+//        if(b!=null)
+//            return b;
         
         //from web
         try {
-            Bitmap bitmap=null;
-            URL imageUrl = new URL(url);
-            HttpURLConnection conn = (HttpURLConnection)imageUrl.openConnection();
-            conn.setConnectTimeout(30000);
-            conn.setReadTimeout(30000);
-            conn.setInstanceFollowRedirects(true);
-            InputStream is=conn.getInputStream();
-            OutputStream os = new FileOutputStream(f);
-            Utils.CopyStream(is, os);
-            os.close();
-            bitmap = decodeFile(f);
-            return bitmap;
+//            Bitmap bitmap=null;
+//            URL imageUrl = new URL(url);
+//            HttpURLConnection conn = (HttpURLConnection)imageUrl.openConnection();
+//            conn.setConnectTimeout(60000);
+//            conn.setReadTimeout(60000);
+//            conn.setInstanceFollowRedirects(true);
+//            InputStream is=conn.getInputStream();
+//            OutputStream os = new FileOutputStream(f);
+//            Utils.CopyStream(is, os);
+//            os.close();
+//            bitmap = decodeFile(f);
+
+            URL imUrl = new URL(url);
+            Bitmap image = BitmapFactory.decodeStream(imUrl.openConnection().getInputStream());
+            return image;
         } catch (Exception ex){
            ex.printStackTrace();
            return null;

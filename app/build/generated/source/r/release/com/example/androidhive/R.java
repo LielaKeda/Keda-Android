@@ -20,7 +20,6 @@ public final class R {
     public static final int image_bg=0x7f020004;
     public static final int list_selector=0x7f020005;
     public static final int no_image=0x7f020006;
-    public static final int rihanna=0x7f020007;
   }
   public static final class id {
     public static final int TextView00=0x7f030000;

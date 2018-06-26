@@ -4,13 +4,12 @@
     android:layout_height="fill_parent"
     android:orientation="horizontal"
     android:padding="5dip" >
-        
+
 	<ImageView
 	    android:id="@+id/list_image"
         android:layout_width="800dip"
         android:layout_height="800dip"
-	    android:layout_centerHorizontal="true"
-	    android:src="@drawable/rihanna" />
+	    android:layout_centerHorizontal="true" />
 
 	<TextView
 	    android:id="@+id/pirma"
