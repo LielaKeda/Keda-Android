@@ -55,7 +55,7 @@ public class StatAdapter extends BaseAdapter {
         balsots.setText("Kopā bilžu: "+song.get(Statistika.KEY_BILDES));
         nebalsots.setText("Kopā balsu: "+song.get(Statistika.KEY_BALSIS));
         albums.setText("Kopā albumu: "+song.get(Statistika.KEY_ALBUMI));
-        reitings.setText("Bildes skatītas "+song.get(Statistika.KEY_SKAITS+" reizes"));
+        reitings.setText("Kopā skatījumu: "+song.get(Statistika.KEY_SKAITS));
         return vi;
     }
 }
