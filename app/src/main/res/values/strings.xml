@@ -2,17 +2,17 @@
 <resources>
 
     <string name="hello">Cīņa!</string>
-    <string name="app_name">Keda_Beta</string>
+    <string name="app_name">Keda</string>
     <string name="vienaBilde">TukšumsViens</string>
     <string name="otraBilde">TukšumsDivi</string>
     <string name="nekas"></string>
     <string name="title_activity_main">Keda</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Uzstādījumi</string>
     <string name="hello_world">Hello world!</string>
-    <string name="title_activity_top_pics">Top_pics</string>
-    <string name="title_activity_top_albums">TopAlbums</string>
+    <string name="title_activity_top_pics">Top bildes</string>
+    <string name="title_activity_top_albums">Top albumi</string>
     <string name="title_activity_statistika">Statistika</string>
-    <string name="title_activity_par_lietotni">ParLietotni</string>
-    <string name="title_activity_single_pic">SinglePic</string>
+    <string name="title_activity_par_lietotni">Par lietotni</string>
+    <string name="title_activity_single_pic">Foto</string>
 
 </resources>

@@ -1,19 +1,26 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        rel {
+            keyAlias 'key0'
+            keyPassword '1lielakeda'
+            storeFile file('C:/Users/matiss.rikters/key.jks')
+            storePassword '1lielakeda'
+        }
+    }
     compileSdkVersion 19
-    buildToolsVersion "27.0.3"
-
+    buildToolsVersion '27.0.3'
     defaultConfig {
-        applicationId "com.example.androidhive"
+        applicationId "com.keda"
         minSdkVersion 8
         targetSdkVersion 8
     }
-
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.rel
         }
     }
     lintOptions {
@@ -21,8 +28,18 @@ android {
         checkReleaseBuilds false
 
     }
+    productFlavors {
+    }
+}
+allprojects {
+    repositories {
+        jcenter()
+        maven {
+            url "https://maven.google.com"
+        }
+    }
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:19.0.0'
+    implementation 'com.android.support:support-v4:19.0.0'
 }
