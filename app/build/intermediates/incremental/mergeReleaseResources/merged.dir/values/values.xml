@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Uzstādījumi</string>
+    <string name="app_name">Keda</string>
+    <string name="hello">Cīņa!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="nekas"/>
+    <string name="otraBilde">TukšumsDivi</string>
+    <string name="title_activity_main">Keda</string>
+    <string name="title_activity_par_lietotni">Par lietotni</string>
+    <string name="title_activity_single_pic">Foto</string>
+    <string name="title_activity_statistika">Statistika</string>
+    <string name="title_activity_top_albums">Top albumi</string>
+    <string name="title_activity_top_pics">Top bildes</string>
+    <string name="vienaBilde">TukšumsViens</string>
+</resources>
