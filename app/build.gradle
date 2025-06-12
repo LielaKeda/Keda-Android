@@ -1,6 +1,8 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace "com.keda"
+    useLibrary("org.apache.http.legacy")
     signingConfigs {
         rel {
             keyAlias 'key0'
@@ -9,12 +11,12 @@ android {
             storePassword '1lielakeda'
         }
     }
-    compileSdkVersion 19
-    buildToolsVersion '27.0.3'
+    compileSdkVersion 27
+    buildToolsVersion '35.0.0'
     defaultConfig {
         applicationId "com.keda"
-        minSdkVersion 8
-        targetSdkVersion 8
+        minSdkVersion 21
+        targetSdkVersion 34
     }
     buildTypes {
         release {

@@ -1,4 +1,4 @@
-#Tue Jun 26 14:14:18 EEST 2018
-base.0=C\:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+#Wed Jun 27 13:28:19 EEST 2018
+base.0=C\:\\Studio\\Keda-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 path.0=classes.dex
 renamed.0=classes.dex

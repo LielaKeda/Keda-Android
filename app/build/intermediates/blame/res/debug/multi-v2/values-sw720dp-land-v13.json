@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "outputFile": "C:\\Studio\\Keda-Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Studio\\mobile\\platforms\\Keda-Android\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "source": "C:\\Studio\\Keda-Android\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",

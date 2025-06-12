@@ -1,103 +1,112 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:2:1-50:12
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:2:1-50:12
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:3:5-23
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:3:5-23
+		INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:7:5-43
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:7:5-43
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:7:5-43
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:7:5-43
-INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:7:5-43
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:7:5-9:37
+INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:7:5-9:37
+INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:7:5-9:37
+	android:maxSdkVersion
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:9:9-35
 	android:targetSdkVersion
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:7:5-43
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:7:15-40
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:9:5-45:19
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:11:5-54:19
+INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:11:5-54:19
+	android:extractNativeLibs
+		INJECTED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml
 	android:label
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:13:9-41
 	android:icon
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:10:9-38
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:12:9-38
 activity#com.keda.CustomizedListView
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:12:9-15:20
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:14:9-18:20
 	android:label
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:14:13-45
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:17:13-45
+	android:exported
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:13:13-55
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:15:13-55
 activity#com.keda.MainActivity
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:16:9-24:20
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:19:9-28:20
 	android:label
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:18:13-56
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:22:13-56
+	android:exported
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:17:13-49
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:20:13-49
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:26:27-74
 activity#com.keda.Top_pics
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:25:9-28:20
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:29:9-33:20
 	android:label
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:27:13-60
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:32:13-60
+	android:exported
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:26:13-45
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:30:13-45
 activity#com.keda.TopAlbums
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:29:9-32:20
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:34:9-38:20
 	android:label
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:31:13-62
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:37:13-62
+	android:exported
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:36:13-36
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:30:13-46
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:35:13-46
 activity#com.keda.Statistika
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:33:9-36:20
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:39:9-43:20
 	android:label
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:35:13-62
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:42:13-62
+	android:exported
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:41:13-36
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:34:13-47
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:40:13-47
 activity#com.keda.ParLietotni
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:37:9-40:20
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:44:9-48:20
 	android:label
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:39:13-64
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:47:13-64
+	android:exported
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:46:13-36
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:38:13-48
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:45:13-48
 activity#com.keda.SinglePic
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:41:9-44:20
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:49:9-53:20
 	android:label
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:43:13-62
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:52:13-62
+	android:exported
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:51:13-36
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:42:13-46
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:50:13-46
 uses-permission#android.permission.INTERNET
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:47:5-67
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:56:5-67
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:47:22-64
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:56:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:48:5-81
+ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:57:5-81
 	android:name
-		ADDED from C:\Studio\mobile\platforms\Keda-Android\app\src\main\AndroidManifest.xml:48:22-78
+		ADDED from C:\Studio\Keda-Android\app\src\main\AndroidManifest.xml:57:22-78

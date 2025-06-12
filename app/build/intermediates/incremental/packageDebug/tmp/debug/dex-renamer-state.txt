@@ -1,19 +1,10 @@
-#Tue Jun 26 14:14:18 EEST 2018
-path.1=classes.dex
+#Wed Jun 11 18:58:22 EEST 2025
+base.0=C\:\\Studio\\Keda-Android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Studio\\Keda-Android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Studio\\Keda-Android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
 path.0=classes.dex
-renamed.5=classes6.dex
-renamed.4=classes5.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
+path.1=0/classes.dex
+path.2=8/classes.dex
 renamed.0=classes.dex
-base.5=C\:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-base.4=C\:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\17
-base.3=C\:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
-base.2=C\:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
-base.1=C\:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\13
-base.0=C\:\\Studio\\mobile\\platforms\\Keda-Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-path.5=classes.dex
-path.4=classes.dex
-path.3=classes.dex
-path.2=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
